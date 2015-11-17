@@ -1,0 +1,2 @@
+iOS 9.2 beta2发布 3大改良重点率先看
+（原文标题：iOS9.2beta2发布！3大改良重点率先看！）iOS9.1公布没多久，iOS9.2正努力研发当中，如今苹果向开发者发布iOS9.2beta2更新，从浏览器、电话以及修补漏洞进行大幅更新，除了增加功能之外，还大幅增强稳定性。1.Safari介面小改进Safari在iOS9.2beta2有一些改进，例如改良第三方应用程序的支持，直接开启Safari网页，新增滑动手势关闭视窗，部分按钮位置有改变，并向开发者提供Tapbots和Tweetbots让他们自行开发网页的手势动作。2.NumberSync功能虽然只适用于在美国部分电讯商例如AT&amp;T，但iOS9.2beta2在WiFi-calling的基础上新增了名为Number Sync的功能，就像Hand off打电话一样，你可以把收到的电话转接到Mac或iPad之中接听，而且无需要使用相同的WiFi网络。3.大量漏洞修正由于仍然第2版的beta，主要的漏洞修正蛮多的，例如重新配对Apple Watch之后不会因此不见了「Glance」功能，同步音乐到Apple Watch问题、iCloud密码库的设定问题、影片不能播放的问题等等
